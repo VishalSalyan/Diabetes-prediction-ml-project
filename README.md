@@ -75,6 +75,9 @@ The goal is to assist in early diabetes detection using machine learning.
 
 An interactive web application allows users to input health parameters and get real-time diabetes predictions.
 
+👉 Live Demo:
+🔗 https://diabetes-prediction-mlproject.streamlit.app/
+
 ### ▶️ Run Locally
 
 ```bash
@@ -132,7 +135,6 @@ diabetes-prediction/
 
 - Hyperparameter tuning (GridSearchCV / RandomizedSearchCV)
 - Handling class imbalance (SMOTE)
-- Cloud deployment (Streamlit Cloud / Render)
 - Add probability-based risk score
 - Improve UI/UX dashboard
 
